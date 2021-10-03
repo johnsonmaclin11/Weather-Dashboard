@@ -1,0 +1,80 @@
+body{
+    background-image: url("./Assets/background.png");
+    background-position: center;
+    /* background-repeat:no-repeat; */
+    font-family: 'Comic Neue', cursive;
+    font-size: 100%;
+}
+
+header{
+    background-color: rgb(66, 66, 71);
+    color:white;
+    height: 70%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#cityList{
+    font-size: 30px;
+}
+
+#weather{
+    background-color:white;
+    color: black;
+
+}
+
+
+#select-city{
+    color:white;
+    background-color:rgb(23, 105, 160);
+    width: 30%;
+   
+}
+
+button{
+    width:100%;
+    text-align: left;
+    background-color: white;
+    color:black;
+}
+
+span{
+    text-align: center;
+}
+
+#uv{
+    color:white;
+    width: 10%;
+}
+
+
+.float-child1,.float-child2,.float-child3,.float-child4,.float-child5 {
+    width: 20%;
+    float: left;
+    padding: 1%;
+    border: 1px solid rgb(219, 219, 236);
+} 
+#main{
+    height:100%;
+    background-color:white;
+    width:85%;
+   
+}.card{
+    background-color:rgb(240, 237, 227) ;
+}
+label{
+    font-weight: bold;
+    font-size: 20px;
+}
+.city-btn{
+    background-color: rgb(137, 230, 218);
+    width: 60%;
+}
+#city-input{
+    width: 60%;
+}
+#weather{
+    height: 1000%;
+}
