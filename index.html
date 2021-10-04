@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./Weather-Dashboard/assets/css/style.css" />
+    <title>Weather Dashboard</title>
+  </head>
+  <body>
+    <header>Weather Dashboard</header>
+    <div class="contianer">
+      <row class="row">
+        <section class="col-lg-3">
+          <div class="card" style="width: 20rem">
+            <div class="card-body">
+              <form id="city-form">
+                <label for="city-input">Search for a City : </label><br />
+                <input type="text" id="city-input" />
+                <button
+                  id="select-city"
+                  type="submit"
+                  value="search"
+                  class="btn btn-primary"
+                >
+                  Search
+                </button>
+              </form>
+              <br />
+              <continer id="cityList"></continer>
+            </div>
+          </div>
+        </section>
+
+        <section class="col-lg-9">
+          <div class="card w-60" id="main">
+            <div class="card-body" id="main-section">
+              <div id="cityInfo">
+                <h5 class="city"></h5>
+                <div class="date"></div>
+                <div class="tempreature"></div>
+                <div class="humidity"></div>
+                <div class="wind"></div>
+                <div class="uv"></div>
+              </div>
+              <br /><br />
+              <h4></h4>
+              <div class="float-container">
+                <div id="weather"></div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </row>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="./Weather-Dashboard/assets/js/script.js"></script>
+  </body>
+</html>
