@@ -156,7 +156,7 @@ $(document).ready(function () {
         $("h3").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/rain.jpeg",
+            src: "./assets/images/rain.jpeg",
             width: "50",
             height: "50",
           })
@@ -165,7 +165,7 @@ $(document).ready(function () {
         $("h3").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/sunny.png",
+            src: "./assets/images/sunny.png",
             width: "50",
             height: "50",
           })
@@ -174,7 +174,7 @@ $(document).ready(function () {
         $("h3").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/cloud.jpeg",
+            src: "./assets/images/cloud.jpeg",
             width: "50",
             height: "50",
           })
@@ -185,7 +185,7 @@ $(document).ready(function () {
         $(".float-child1").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/rain.jpeg",
+            src: "./assets/images/rain.jpeg",
             width: "50",
             height: "50",
           })
@@ -194,7 +194,7 @@ $(document).ready(function () {
         $(".float-child1").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/sunny.png",
+            src: "./assets/images/sunny.png",
             width: "50",
             height: "50",
           })
@@ -203,7 +203,7 @@ $(document).ready(function () {
         $(".float-child1").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/cloud.jpeg",
+            src: "./assets/images/cloud.jpeg",
             width: "50",
             height: "50",
           })
@@ -214,7 +214,7 @@ $(document).ready(function () {
         $(".float-child2").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/rain.jpeg",
+            src: "./assets/images/rain.jpeg",
             width: "50",
             height: "50",
           })
@@ -223,7 +223,7 @@ $(document).ready(function () {
         $(".float-child2").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/sunny.png",
+            src: "./assets/images/sunny.png",
             width: "50",
             height: "50",
           })
@@ -232,7 +232,7 @@ $(document).ready(function () {
         $(".float-child2").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/cloud.jpeg",
+            src: "./assets/images/cloud.jpeg",
             width: "50",
             height: "50",
           })
@@ -243,7 +243,7 @@ $(document).ready(function () {
         $(".float-child3").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/rain.jpeg",
+            src: "./assets/images/rain.jpeg",
             width: "50",
             height: "50",
           })
@@ -252,7 +252,7 @@ $(document).ready(function () {
         $(".float-child3").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/sunny.png",
+            src: "./assets/images/sunny.png",
             width: "50",
             height: "50",
           })
@@ -261,7 +261,7 @@ $(document).ready(function () {
         $(".float-child3").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/cloud.jpeg",
+            src: "./assets/images/cloud.jpeg",
             width: "50",
             height: "50",
           })
@@ -272,7 +272,7 @@ $(document).ready(function () {
         $(".float-child4").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/rain.jpeg",
+            src: "./assets/images/rain.jpeg",
             width: "50",
             height: "50",
           })
@@ -281,7 +281,7 @@ $(document).ready(function () {
         $(".float-child4").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/sunny.png",
+            src: "./assets/images/sunny.png",
             width: "50",
             height: "50",
           })
@@ -290,7 +290,7 @@ $(document).ready(function () {
         $(".float-child4").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/cloud.jpeg",
+            src: "./assets/images/cloud.jpeg",
             width: "50",
             height: "50",
           })
@@ -301,7 +301,7 @@ $(document).ready(function () {
         $(".float-child5").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/rain.jpeg",
+            src: "./assets/images/rain.jpeg",
             width: "50",
             height: "50",
           })
@@ -310,7 +310,7 @@ $(document).ready(function () {
         $(".float-child5").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/sunny.png",
+            src: "./assets/images/sunny.png",
             width: "50",
             height: "50",
           })
@@ -319,7 +319,7 @@ $(document).ready(function () {
         $(".float-child5").append(
           $("<img>", {
             id: "rain",
-            src: "./Weather-Dashboard/assets/images/cloud.jpeg",
+            src: "./assets/images/cloud.jpeg",
             width: "50",
             height: "50",
           })
